@@ -12,8 +12,8 @@ Book Name | Author
 
 # Papers
 
-Book Name | Author
---------- | -------------
+Paper Title| Author
+-----------| -------------
 [Monads for Functional Programming ](papers/Monads_for_functional_programming_by_Walder.pdf)|Philip Wadler
 [Notions of computation and monads](papers/Notion_of_Computation_and_Monads_by_Moggi.pdf)| Eugenio Moggi
 ----
