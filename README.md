@@ -7,8 +7,8 @@ Book Name | Author
 --------- | -------------
 [Types & Programming Languages](books/Types_and_Programming_Languages_Book_by_Benjamin_C_Pierce.pdf)|Benjamin C. Pierce
 [Homotopy type theory](books/Homotopy_Type_Theory.pdf)|Univalent Foundations of Mathematics
-[Category Theory for Computer Scientists](books/Categoty_for_Computer_Science_Book.pdf)|Michel Barr & Charles Wells
-[Category Theory for Programmers](books/Categoty_for_Computer_Science_Book.pdf)|Bartosz Milewski
+[Category Theory for Computer Scientists](books/Category_for_Computer_Science_Book.pdf)|Michel Barr & Charles Wells
+[Category Theory for Programmers](books/Category_Theory_for_Programmers_by_Bartosz_Milewski.pdf)|Bartosz Milewski
 ----
 
 # Papers
