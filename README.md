@@ -19,4 +19,5 @@ Paper Title| Author
 -----------| -------------
 [Monads for Functional Programming ](papers/Monads_for_functional_programming_by_Walder.pdf)|Philip Wadler
 [Notions of computation and monads](papers/Notion_of_Computation_and_Monads_by_Moggi.pdf)| Eugenio Moggi
+[Stream Fusion. From Lists to Streams to Nothing at All (2007)](http://fun.cs.tufts.edu/stream-fusion.pdf)| Duncan Coutts , Roman Leshchinskiy , Don Stewart
 ----
