@@ -21,3 +21,12 @@ Paper Title| Author
 [Notions of computation and monads](papers/Notion_of_Computation_and_Monads_by_Moggi.pdf)| Eugenio Moggi
 [Stream Fusion. From Lists to Streams to Nothing at All (2007)](http://fun.cs.tufts.edu/stream-fusion.pdf)| Duncan Coutts , Roman Leshchinskiy , Don Stewart
 ----
+
+
+# Technical Essays and Articles
+
+
+Title| Author
+-----------| -------------
+[The Expression Problem ](http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt)|Philip Wadler
+----
