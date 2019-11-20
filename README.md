@@ -21,6 +21,7 @@ Paper Title| Author
 [Notions of computation and monads](papers/Notion_of_Computation_and_Monads_by_Moggi.pdf)| Eugenio Moggi
 [Stream Fusion. From Lists to Streams to Nothing at All (2007)](http://fun.cs.tufts.edu/stream-fusion.pdf)| Duncan Coutts , Roman Leshchinskiy , Don Stewart
 [Composable Memory Transactions](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/stm.pdf)|Simon Peyton Jones
+[Towards Haskell in the Cloud](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/remote.pdf)|Jeff Epstein, Andrew Black, and Simon Peyton Jone
 ----
 
 
