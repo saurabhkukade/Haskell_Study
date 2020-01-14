@@ -22,6 +22,7 @@ Book Name | Author
 [Category Theory for Programmers](books/Category_Theory_for_Programmers_by_Bartosz_Milewski.pdf)|Bartosz Milewski
 [Category Theory for Scientists (draft version)](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)|David Spivak
 [Seven Sketches in Compositionality](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf)|David Spivak
+[Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)|John Hughes
 ----
 
 
