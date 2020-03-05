@@ -11,8 +11,7 @@ Paper Title| Author
 [Towards Haskell in the Cloud](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/remote.pdf)|Jeff Epstein, Andrew Black, and Simon Peyton Jone
 [Henk: a typed intermediate language & Tutorial introduction to the lambda cube](https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/henk.pdf)|E Meijer, Simon Peyton Jones
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)|John Hughes
-[Functional Programming with Overloading and Higher-Order Polymorphism] (https://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf)|Mark P Jones
-
+[Functional Programming with Overloading and Higher-Order Polymorphism](https://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf)|Mark P Jones
 ----
 
 
