@@ -13,6 +13,11 @@ Paper Title| Author
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)|John Hughes
 [Functional Programming with Overloading and Higher-Order Polymorphism](https://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf)|Mark P Jones
 [Generalising Monads to Arrows](http://www.cse.chalmers.se/~rjmh/Papers/arrows.pdf)|John Hughes
+[Composing monads](http://web.cecs.pdx.edu/~mpj/pubs/RR-1004.pdf)|Mark P. Jones, Luc Duponcheel
+
+
+
+
 ----
 
 
