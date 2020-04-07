@@ -4,8 +4,8 @@ Some collection of recommonded paper and books about Haskell, Type Theory and Ca
 
 Paper Title| Author
 -----------| -------------
-[Monads for Functional Programming ](papers/Monads_for_functional_programming_by_Walder.pdf)|Philip Wadler
-[Notions of computation and monads](papers/Notion_of_Computation_and_Monads_by_Moggi.pdf)| Eugenio Moggi
+[Monads for Functional Programming ](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)|Philip Wadler
+[Notions of computation and monads](https://core.ac.uk/download/pdf/21173011.pdf)| Eugenio Moggi
 [Stream Fusion. From Lists to Streams to Nothing at All (2007)](http://fun.cs.tufts.edu/stream-fusion.pdf)| Duncan Coutts , Roman Leshchinskiy , Don Stewart
 [Composable Memory Transactions](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/stm.pdf)|Simon Peyton Jones
 [Towards Haskell in the Cloud](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/remote.pdf)|Jeff Epstein, Andrew Black, and Simon Peyton Jone
@@ -25,9 +25,9 @@ Paper Title| Author
 
 Book Name | Author
 --------- | -------------
-[Types & Programming Languages](books/Types_and_Programming_Languages_Book_by_Benjamin_C_Pierce.pdf)|Benjamin C. Pierce
-[Category Theory for Computer Scientists](books/Category_for_Computer_Science_Book.pdf)|Michel Barr & Charles Wells
-[Category Theory for Programmers](books/Category_Theory_for_Programmers_by_Bartosz_Milewski.pdf)|Bartosz Milewski
+[Types & Programming Languages](http://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf)|Benjamin C. Pierce
+[Category Theory for Computer Scientists](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf)|Michel Barr & Charles Wells
+[Category Theory for Programmers](https://unglueit-files.s3.amazonaws.com/ebf/e90890f0a6ea420c9825657d6f3a851d.pdf:xa)|Bartosz Milewski
 [Category Theory for Scientists (draft version)](https://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/MIT18_S996S13_textbook.pdf)|David Spivak
 [Seven Sketches in Compositionality](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf)|David Spivak
 [Categories for the Working Mathematician](https://www.maths.ed.ac.uk/~v1ranick/papers/maclanecat.pdf)|Saunders Mac Lane
