@@ -14,6 +14,7 @@ Paper Title| Author
 [Functional Programming with Overloading and Higher-Order Polymorphism](https://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf)|Mark P Jones
 [Generalising Monads to Arrows](http://www.cse.chalmers.se/~rjmh/Papers/arrows.pdf)|John Hughes
 [Composing monads](http://web.cecs.pdx.edu/~mpj/pubs/RR-1004.pdf)|Mark P. Jones, Luc Duponcheel
+[QuickCheck: A Lightweight Tool for Random Testing of Haskell](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf)|John Hughes
 
 
 
