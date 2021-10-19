@@ -41,5 +41,6 @@ Book Name | Author
 
 Title| Author
 -----------| -------------
+[Communicating Haskell Processes tutorial](https://www.cs.kent.ac.uk/projects/ofa/chp/tutorial.pdf)|Neil C. C. Brown
 [The Expression Problem ](http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt)|Philip Wadler
 ----
